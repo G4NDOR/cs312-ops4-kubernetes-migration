@@ -1,7 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: minecraft-config
-data:
-  EULA: "TRUE"
-  MOTD: "Ops 4 Server - rhandoua"
